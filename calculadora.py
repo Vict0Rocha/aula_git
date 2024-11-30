@@ -10,4 +10,5 @@ def multiplica(x, y):
     return x * y
 
 
-print("Olá, mundo!")
+def msg(texto):
+    return texto

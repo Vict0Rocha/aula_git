@@ -1,3 +1,3 @@
-from calculator import soma
+import calculadora
 
-print(soma(7, 3))
+print(calculadora.soma(5, 5))

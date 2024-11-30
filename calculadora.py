@@ -8,3 +8,7 @@ def subtrai(x, y):
 
 def multiplica(x, y):
     return x * y
+
+
+def msg(texto):
+    return texto
